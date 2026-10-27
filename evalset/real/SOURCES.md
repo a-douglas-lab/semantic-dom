@@ -2,6 +2,7 @@
 
 Held-out evaluation documents. Development set (used while building the harness): Backstage, GOV.UK, JSON Resume. Held-out set 1 (`fresh`, requests quote the text): MoJ, Common Paper, RenderCV. Held-out set 2 (`fresh2`, plain-language requests, never used for tuning): log4brains, GOV.UK Infrastructure, Bonterms, best-resume-ever. Source files are kept unmodified under `sources/` with their
 licences; `convert.py` produces the corpus dialect (`*.md` here). Fetched 2026-10-16 at the pinned commits.
+These documents, original and converted, keep the licences below; the repository's MIT licence does not cover them.
 
 | Doc | Source | Commit | Licence | Notes |
 |---|---|---|---|---|

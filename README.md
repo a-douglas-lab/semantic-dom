@@ -88,6 +88,12 @@ Each result in the write-up names its files and the command that reproduces it.
 - `results/` — the results behind every number in the write-up
 - `.specify/memory/constitution.md` and `CLAUDE.md` — the rules the autonomous engineering loop worked under
 
+## Licence
+
+Code, write-up and results: [MIT](LICENSE). The documents under `evalset/real/` are third-party and keep their own
+licences (Apache-2.0, MIT and CC BY 4.0), listed per document in
+[`evalset/real/SOURCES.md`](evalset/real/SOURCES.md) and included alongside the originals in `evalset/real/sources/`.
+
 ## How this was built
 
 The author designed the experiment and its rules (baselines, pre-registered answers, budget, quality gates) and
