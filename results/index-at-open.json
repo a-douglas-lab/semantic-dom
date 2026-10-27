@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "what": "index at document open: graph + BM25 + bge-small embeddings of every node (all-bge), model preloaded",
+    "how": "offline, foreground process, Windows laptop CPU; median of 5 runs (adr-L 3)",
+    "date": "2026-10-26"
+  },
+  "rows": [
+    {
+      "doc": "adr-S",
+      "est_tokens": 2076,
+      "nodes": 73,
+      "index_s": [
+        0.27,
+        0.24,
+        0.23,
+        0.27,
+        0.28
+      ],
+      "median_s": 0.27,
+      "dom_bm25_median_s": 0.005
+    },
+    {
+      "doc": "contract-S",
+      "est_tokens": 3008,
+      "nodes": 67,
+      "index_s": [
+        0.38,
+        0.82,
+        0.44,
+        0.32,
+        0.31
+      ],
+      "median_s": 0.38,
+      "dom_bm25_median_s": 0.012
+    },
+    {
+      "doc": "fresh2-contract-bonterms",
+      "est_tokens": 8361,
+      "nodes": 147,
+      "index_s": [
+        1.2,
+        1.5,
+        1.33,
+        1.75,
+        1.3
+      ],
+      "median_s": 1.33,
+      "dom_bm25_median_s": 0.06
+    },
+    {
+      "doc": "real-adr-backstage",
+      "est_tokens": 9904,
+      "nodes": 307,
+      "index_s": [
+        2.02,
+        1.87,
+        2.33,
+        2.49,
+        2.06
+      ],
+      "median_s": 2.06,
+      "dom_bm25_median_s": 0.067
+    },
+    {
+      "doc": "contract-M",
+      "est_tokens": 20028,
+      "nodes": 329,
+      "index_s": [
+        2.89,
+        2.43,
+        2.47,
+        2.59,
+        2.91
+      ],
+      "median_s": 2.59,
+      "dom_bm25_median_s": 0.16
+    },
+    {
+      "doc": "fresh2-adr-govuk-infra",
+      "est_tokens": 24101,
+      "nodes": 677,
+      "index_s": [
+        5.64,
+        5.7,
+        5.42,
+        6.19,
+        5.38
+      ],
+      "median_s": 5.64,
+      "dom_bm25_median_s": 0.256
+    },
+    {
+      "doc": "fresh-adr-moj",
+      "est_tokens": 35872,
+      "nodes": 1319,
+      "index_s": [
+        8.85,
+        7.37,
+        8.79,
+        8.48,
+        8.73
+      ],
+      "median_s": 8.73,
+      "dom_bm25_median_s": 0.513
+    },
+    {
+      "doc": "adr-L",
+      "est_tokens": 100206,
+      "nodes": 3421,
+      "index_s": [
+        17.45,
+        16.05,
+        16.59
+      ],
+      "median_s": 16.59,
+      "dom_bm25_median_s": 3.463
+    }
+  ]
+}

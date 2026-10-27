@@ -1,0 +1,14 @@
+{
+  "_comment": "Rubric R4 floors. Raise deliberately; never lower without a constitution amendment.",
+  "corpus_sha256_16": "89ebe4053e0457aa",
+  "S_recall_by_kind": {
+    "local": 0.95,
+    "literal-ripple": 0.95,
+    "schema-ripple": 0.95,
+    "status": 0.95,
+    "rename": 0.95,
+    "paraphrase-ripple": 0.95,
+    "add-item": 0.95,
+    "remove-item": 0.95
+  }
+}

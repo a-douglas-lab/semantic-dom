@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" role="img" aria-label="Context recall on plain-language requests: exact facts only 70.8%, BM25 82.6%, static embeddings 87.5%, exact facts plus BM25 95.8%, bge embeddings 97.2%, all three 100%">
+  <style>
+    text { font-family: ui-monospace, "Cascadia Mono", Consolas, monospace; font-size: 12px; fill: #1b2230; }
+    .lbl { fill: #5a6577; }
+    .base { fill: #8f99a8; }
+    .s { fill: #2a4bb8; }
+    .axis { stroke: #d9dee6; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e4e8ef; }
+      .lbl { fill: #9aa5b6; }
+      .base { fill: #6d7889; }
+      .s { fill: #8ea8ff; }
+      .axis { stroke: #2c3442; }
+    }
+  </style>
+  <text x="0" y="24">exact facts only</text><rect class="base" x="190" y="11" width="254.9" height="18"/><text x="451" y="25">70.8%</text>
+  <text x="0" y="56">BM25</text><rect class="base" x="190" y="43" width="297.4" height="18"/><text x="493" y="57">82.6%</text>
+  <text x="0" y="88">static embeddings</text><rect class="base" x="190" y="75" width="315" height="18"/><text x="511" y="89">87.5%</text>
+  <text x="0" y="120">facts + BM25</text><rect class="base" x="190" y="107" width="344.9" height="18"/><text x="541" y="121">95.8%</text>
+  <text x="0" y="152">bge embeddings</text><rect class="base" x="190" y="139" width="349.9" height="18"/><text x="546" y="153">97.2%</text>
+  <text x="0" y="184">facts + BM25 + bge</text><rect class="s" x="190" y="171" width="360" height="18"/><text x="556" y="185">100%</text>
+  <line class="axis" x1="190" y1="4" x2="190" y2="196"/>
+  <text class="lbl" x="190" y="214">0%</text><text class="lbl" x="530" y="214">100%</text>
+</svg>

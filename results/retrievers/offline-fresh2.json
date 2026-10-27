@@ -1,0 +1,288 @@
+{
+  "params": {
+    "bm25": {
+      "top_k": 8,
+      "min_ratio": 0.25
+    },
+    "emb": {
+      "top_k": 5,
+      "min_sim": 0.45
+    },
+    "emb-bge": {
+      "top_k": 8,
+      "min_sim": 0.6
+    }
+  },
+  "report": {
+    "regex": {
+      "recall": 0.7083333333333334,
+      "precision": 0.12192542436350486,
+      "ctx_tokens": 1060.625,
+      "full_recall_cases": 17,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 0.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 0.5,
+        "rename": 1.0,
+        "status": 0.6666666666666666
+      },
+      "misses": [
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-reword",
+          [
+            "s5.s1.i1"
+          ]
+        ],
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-supersede",
+          [
+            "s5.i1"
+          ]
+        ],
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-remove",
+          [
+            "s5.s2.i2"
+          ]
+        ],
+        [
+          "fresh2-adr-govuk-infra",
+          "fresh2-adr-govuk-infra-reword",
+          [
+            "s15.s2.i1"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-reword",
+          [
+            "s6.i1"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-remove",
+          [
+            "s14.i5"
+          ]
+        ],
+        [
+          "fresh2-cv-best-resume",
+          "fresh2-cv-best-resume-reword",
+          [
+            "s2.s3.i1"
+          ]
+        ]
+      ]
+    },
+    "bm25": {
+      "recall": 0.8263888888888888,
+      "precision": 0.17755673700598532,
+      "ctx_tokens": 858.7083333333334,
+      "full_recall_cases": 19,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 0.9333333333333333,
+        "local": 1.0,
+        "paraphrase-ripple": 0.5,
+        "remove-item": 0.75,
+        "rename": 0.7222222222222222,
+        "status": 0.6666666666666666
+      },
+      "misses": [
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-remove",
+          [
+            "s5.s2.i2"
+          ]
+        ],
+        [
+          "fresh2-adr-govuk-infra",
+          "fresh2-adr-govuk-infra-supersede",
+          [
+            "s10.s1.i1"
+          ]
+        ],
+        [
+          "fresh2-adr-govuk-infra",
+          "fresh2-adr-govuk-infra-rename",
+          [
+            "s7.s2.s2.i1",
+            "s7.s2.s2.i3",
+            "s7.s3.i1",
+            "s7.s4.i4",
+            "s7.s4.i5"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-xref",
+          [
+            "s16.i9"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-term",
+          [
+            "s14.i1"
+          ]
+        ]
+      ]
+    },
+    "regex+bm25": {
+      "recall": 0.9583333333333334,
+      "precision": 0.15596740050163746,
+      "ctx_tokens": 1228.2083333333333,
+      "full_recall_cases": 23,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 0.75,
+        "rename": 1.0,
+        "status": 1.0
+      },
+      "misses": [
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-remove",
+          [
+            "s5.s2.i2"
+          ]
+        ]
+      ]
+    },
+    "emb": {
+      "recall": 0.875,
+      "precision": 0.17596736484160422,
+      "ctx_tokens": 874.875,
+      "full_recall_cases": 20,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 0.8666666666666666,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 0.5555555555555555,
+        "status": 0.6666666666666666
+      },
+      "misses": [
+        [
+          "fresh2-adr-govuk-infra",
+          "fresh2-adr-govuk-infra-supersede",
+          [
+            "s10.s1.i1"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-xref",
+          [
+            "s14.i7",
+            "s16.i9"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-rename",
+          [
+            "s14.i10"
+          ]
+        ],
+        [
+          "fresh2-cv-best-resume",
+          "fresh2-cv-best-resume-rename",
+          [
+            "s2.s2"
+          ]
+        ]
+      ]
+    },
+    "all": {
+      "recall": 0.9583333333333334,
+      "precision": 0.1298722445109164,
+      "ctx_tokens": 1293.0416666666667,
+      "full_recall_cases": 23,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 0.75,
+        "rename": 1.0,
+        "status": 1.0
+      },
+      "misses": [
+        [
+          "fresh2-adr-log4brains",
+          "fresh2-adr-log4brains-remove",
+          [
+            "s5.s2.i2"
+          ]
+        ]
+      ]
+    },
+    "emb-bge": {
+      "recall": 0.9722222222222222,
+      "precision": 0.09981153290694099,
+      "ctx_tokens": 1051.0833333333333,
+      "full_recall_cases": 22,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 0.9333333333333333,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 0.8888888888888888,
+        "status": 1.0
+      },
+      "misses": [
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-xref",
+          [
+            "s16.i9"
+          ]
+        ],
+        [
+          "fresh2-contract-bonterms",
+          "fresh2-contract-bonterms-rename",
+          [
+            "s14.i10"
+          ]
+        ]
+      ]
+    },
+    "all-bge": {
+      "recall": 1.0,
+      "precision": 0.07947449953712814,
+      "ctx_tokens": 1379.2083333333333,
+      "full_recall_cases": 24,
+      "n": 24,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    }
+  }
+}

@@ -1,0 +1,37 @@
+[project]
+name = "semantic-dom"
+version = "0.1.0"
+description = "Harness-side semantic DOM for efficient, consistent LLM editing of structured documents"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+live = ["anthropic>=1.15"]
+dev = ["ruff", "mypy", "pytest", "pytest-cov"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = [".specify", ".claude", "results", "evalset/corpus"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["E501", "RUF001", "RUF002", "RUF003"]  # long lines in templates; en/em dashes are intentional
+
+[tool.mypy]
+python_version = "3.13"
+files = ["sdom"]
+strict = true
+warn_unused_ignores = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = ["slow: loads the embedding model (~18 s)"]
+
+[tool.coverage.run]
+source = ["sdom"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true

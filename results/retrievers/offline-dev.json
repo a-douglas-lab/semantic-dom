@@ -1,0 +1,309 @@
+{
+  "params": {
+    "bm25": {
+      "top_k": 8,
+      "min_ratio": 0.25
+    },
+    "emb": {
+      "top_k": 5,
+      "min_sim": 0.45
+    },
+    "emb-bge": {
+      "top_k": 8,
+      "min_sim": 0.6
+    }
+  },
+  "report": {
+    "regex": {
+      "recall": 1.0,
+      "precision": 0.2163334737937195,
+      "ctx_tokens": 2499.217391304348,
+      "full_recall_cases": 69,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "bm25": {
+      "recall": 0.9648033126293996,
+      "precision": 0.24689118370623636,
+      "ctx_tokens": 2303.3333333333335,
+      "full_recall_cases": 65,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 0.9047619047619048,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 0.8888888888888888
+      },
+      "misses": [
+        [
+          "adr-S",
+          "adr-S-deprecate",
+          [
+            "s3.s1.i1"
+          ]
+        ],
+        [
+          "adr-S",
+          "adr-S-switch-tech",
+          [
+            "s4.s3.i1",
+            "s4.s4.i1",
+            "s4.s4.i2",
+            "s4.s4.i3",
+            "s4.s4.i4"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-supersede",
+          [
+            "s17.s1.i1"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-switch-tech",
+          [
+            "s22.s3.i1",
+            "s22.s4.i1",
+            "s22.s4.i2",
+            "s22.s4.i3",
+            "s22.s4.i4"
+          ]
+        ]
+      ]
+    },
+    "regex+bm25": {
+      "recall": 1.0,
+      "precision": 0.18196417600261264,
+      "ctx_tokens": 2578.246376811594,
+      "full_recall_cases": 69,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "emb": {
+      "recall": 0.9251207729468599,
+      "precision": 0.1900645002880802,
+      "ctx_tokens": 2250.623188405797,
+      "full_recall_cases": 60,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 0.9666666666666666,
+        "status": 0.4444444444444444
+      },
+      "misses": [
+        [
+          "adr-S",
+          "adr-S-supersede",
+          [
+            "s4.s1.i1"
+          ]
+        ],
+        [
+          "adr-S",
+          "adr-S-deprecate",
+          [
+            "s3.s1.i1"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-supersede",
+          [
+            "s17.s1.i1"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-deprecate",
+          [
+            "s12.s1.i1"
+          ]
+        ],
+        [
+          "adr-L",
+          "adr-L-supersede",
+          [
+            "s97.s1.i1"
+          ]
+        ],
+        [
+          "adr-L",
+          "adr-L-deprecate",
+          [
+            "s65.s1.i1"
+          ]
+        ],
+        [
+          "real-adr-backstage",
+          "real-adr-backstage-supersede",
+          [
+            "s8"
+          ]
+        ],
+        [
+          "real-adr-backstage",
+          "real-adr-backstage-luxon",
+          [
+            "s13.s2.i1"
+          ]
+        ],
+        [
+          "real-adr-govuk",
+          "real-adr-govuk-supersede",
+          [
+            "s21.s1.i1"
+          ]
+        ]
+      ]
+    },
+    "all": {
+      "recall": 1.0,
+      "precision": 0.1633653719472444,
+      "ctx_tokens": 2617.144927536232,
+      "full_recall_cases": 69,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "emb-bge": {
+      "recall": 0.9378881987577639,
+      "precision": 0.14994437030039595,
+      "ctx_tokens": 2357.927536231884,
+      "full_recall_cases": 61,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 0.9142857142857143,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 0.6666666666666666
+      },
+      "misses": [
+        [
+          "adr-S",
+          "adr-S-supersede",
+          [
+            "s4.s1.i1"
+          ]
+        ],
+        [
+          "adr-S",
+          "adr-S-deprecate",
+          [
+            "s3.s1.i1"
+          ]
+        ],
+        [
+          "adr-S",
+          "adr-S-switch-tech",
+          [
+            "s4.s4.i1",
+            "s4.s4.i2",
+            "s4.s4.i3",
+            "s4.s4.i4"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-supersede",
+          [
+            "s17.s1.i1"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-deprecate",
+          [
+            "s12.s1.i1"
+          ]
+        ],
+        [
+          "adr-M",
+          "adr-M-switch-tech",
+          [
+            "s22.s3.i1",
+            "s22.s4.i1",
+            "s22.s4.i2",
+            "s22.s4.i3",
+            "s22.s4.i4"
+          ]
+        ],
+        [
+          "adr-L",
+          "adr-L-supersede",
+          [
+            "s97.s1.i1"
+          ]
+        ],
+        [
+          "adr-L",
+          "adr-L-deprecate",
+          [
+            "s65.s1.i1"
+          ]
+        ]
+      ]
+    },
+    "all-bge": {
+      "recall": 1.0,
+      "precision": 0.14178513890304983,
+      "ctx_tokens": 2720.2608695652175,
+      "full_recall_cases": 69,
+      "n": 69,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    }
+  }
+}

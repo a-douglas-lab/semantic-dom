@@ -1,0 +1,5 @@
+{
+  "_comment": "Owner-set spend limits for live API runs (USD). The live runner refuses calls that would exceed them.",
+  "per_run_usd": 2.0,
+  "total_usd": 20.0
+}

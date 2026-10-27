@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.env.*
+evalset/corpus/
+results/live-dry.json
+.claude/settings.local.json

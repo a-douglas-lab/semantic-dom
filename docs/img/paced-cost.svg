@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 150" width="580" height="150" role="img" aria-label="Mean session cost over 3 runs on a 24k-token ADR set: B1 with 5-minute cache $0.590, B1 with 1-hour cache $0.366, semantic DOM $0.129">
+  <style>
+    text { font-family: ui-monospace, "Cascadia Mono", Consolas, monospace; font-size: 12px; fill: #1b2230; }
+    .lbl { fill: #5a6577; }
+    .base { fill: #8f99a8; }
+    .s { fill: #2a4bb8; }
+    .axis { stroke: #d9dee6; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e4e8ef; }
+      .lbl { fill: #9aa5b6; }
+      .base { fill: #6d7889; }
+      .s { fill: #8ea8ff; }
+      .axis { stroke: #2c3442; }
+    }
+  </style>
+  <text x="0" y="30">B1, 5-min cache</text>
+  <rect class="base" x="160" y="16" width="354.0" height="22"/>
+  <text x="520" y="31">$0.590</text>
+  <text x="0" y="72">B1, 1-hour cache</text>
+  <rect class="base" x="160" y="58" width="219.6" height="22"/>
+  <text x="386" y="73">$0.366</text>
+  <text x="0" y="114">Semantic DOM (S)</text>
+  <rect class="s" x="160" y="100" width="77.4" height="22"/>
+  <text x="243" y="115">$0.129</text>
+  <line class="axis" x1="160" y1="8" x2="160" y2="132"/>
+  <text class="lbl" x="160" y="146">$0</text>
+  <text class="lbl" x="490" y="146">$0.55</text>
+</svg>

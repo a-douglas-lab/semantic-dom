@@ -1,0 +1,4867 @@
+[
+  {
+    "at": "2026-10-16T12:44:19",
+    "usd": 0.007052,
+    "note": "cv-S/S/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:44:23",
+    "usd": 0.006061,
+    "note": "cv-S/S/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:44:36",
+    "usd": 0.005049,
+    "note": "cv-S/S/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:44:40",
+    "usd": 0.003793,
+    "note": "cv-S/S/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:44:44",
+    "usd": 0.005081,
+    "note": "cv-S/S/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:45:31",
+    "usd": 0.040057,
+    "note": "cv-S/B0/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:45:44",
+    "usd": 0.044983,
+    "note": "cv-S/B0/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:45:55",
+    "usd": 0.039927,
+    "note": "cv-S/B0/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:46:06",
+    "usd": 0.040251,
+    "note": "cv-S/B0/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:46:17",
+    "usd": 0.040241,
+    "note": "cv-S/B0/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:46:22",
+    "usd": 0.013246,
+    "note": "cv-S/B1/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:46:25",
+    "usd": 0.004984,
+    "note": "cv-S/B1/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:46:28",
+    "usd": 0.00416,
+    "note": "cv-S/B1/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:46:30",
+    "usd": 0.002374,
+    "note": "cv-S/B1/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:46:32",
+    "usd": 0.002762,
+    "note": "cv-S/B1/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:46:36",
+    "usd": 0.005928,
+    "note": "cv-S/B2/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:46:39",
+    "usd": 0.004984,
+    "note": "cv-S/B2/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:46:42",
+    "usd": 0.006176,
+    "note": "cv-S/B2/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:46:46",
+    "usd": 0.005536,
+    "note": "cv-S/B2/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:46:48",
+    "usd": 0.007544,
+    "note": "cv-S/B2/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:46:51",
+    "usd": 0.003481,
+    "note": "cv-S/S/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:46:54",
+    "usd": 0.006801,
+    "note": "cv-S/S/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:47:13",
+    "usd": 0.005209,
+    "note": "cv-S/S/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:47:15",
+    "usd": 0.003113,
+    "note": "cv-S/S/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:47:17",
+    "usd": 0.005053,
+    "note": "cv-S/S/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:47:36",
+    "usd": 0.064674,
+    "note": "adr-S/B0/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:47:56",
+    "usd": 0.06954,
+    "note": "adr-S/B0/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T12:48:13",
+    "usd": 0.065885,
+    "note": "adr-S/B0/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T12:48:34",
+    "usd": 0.065827,
+    "note": "adr-S/B0/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T12:48:37",
+    "usd": 0.017471,
+    "note": "adr-S/B1/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:48:41",
+    "usd": 0.007557,
+    "note": "adr-S/B1/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T12:48:43",
+    "usd": 0.005081,
+    "note": "adr-S/B1/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T12:48:47",
+    "usd": 0.008073,
+    "note": "adr-S/B1/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T12:48:50",
+    "usd": 0.005208,
+    "note": "adr-S/B2/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:48:54",
+    "usd": 0.014132,
+    "note": "adr-S/B2/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T12:48:57",
+    "usd": 0.008744,
+    "note": "adr-S/B2/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T12:49:01",
+    "usd": 0.012132,
+    "note": "adr-S/B2/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T12:49:03",
+    "usd": 0.007069,
+    "note": "adr-S/S/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:49:08",
+    "usd": 0.012501,
+    "note": "adr-S/S/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T12:49:10",
+    "usd": 0.010027,
+    "note": "adr-S/S/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T12:49:15",
+    "usd": 0.013424,
+    "note": "adr-S/S/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T12:49:40",
+    "usd": 0.09487,
+    "note": "contract-S/B0/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:50:05",
+    "usd": 0.094873,
+    "note": "contract-S/B0/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T12:50:33",
+    "usd": 0.094877,
+    "note": "contract-S/B0/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T12:51:06",
+    "usd": 0.094861,
+    "note": "contract-S/B0/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T12:51:31",
+    "usd": 0.094493,
+    "note": "contract-S/B0/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T12:51:34",
+    "usd": 0.022741,
+    "note": "contract-S/B1/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:51:38",
+    "usd": 0.002784,
+    "note": "contract-S/B1/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T12:51:47",
+    "usd": 0.003876,
+    "note": "contract-S/B1/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T12:51:50",
+    "usd": 0.003101,
+    "note": "contract-S/B1/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T12:52:04",
+    "usd": 0.024181,
+    "note": "contract-S/B1/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T12:52:07",
+    "usd": 0.004652,
+    "note": "contract-S/B2/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:52:09",
+    "usd": 0.004264,
+    "note": "contract-S/B2/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T12:52:11",
+    "usd": 0.005756,
+    "note": "contract-S/B2/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T12:52:14",
+    "usd": 0.004448,
+    "note": "contract-S/B2/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T12:52:20",
+    "usd": 0.031236,
+    "note": "contract-S/B2/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T12:52:22",
+    "usd": 0.007579,
+    "note": "contract-S/S/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:52:24",
+    "usd": 0.00194,
+    "note": "contract-S/S/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T12:52:29",
+    "usd": 0.003604,
+    "note": "contract-S/S/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T12:52:32",
+    "usd": 0.008575,
+    "note": "contract-S/S/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T12:52:42",
+    "usd": 0.029951,
+    "note": "contract-S/S/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T12:56:57",
+    "usd": 0.040032,
+    "note": "cv-S/B0/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:57:10",
+    "usd": 0.041538,
+    "note": "cv-S/B0/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:57:22",
+    "usd": 0.039902,
+    "note": "cv-S/B0/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:57:34",
+    "usd": 0.041246,
+    "note": "cv-S/B0/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:57:45",
+    "usd": 0.040216,
+    "note": "cv-S/B0/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:57:49",
+    "usd": 0.013221,
+    "note": "cv-S/B1/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:57:54",
+    "usd": 0.004399,
+    "note": "cv-S/B1/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:57:59",
+    "usd": 0.002894,
+    "note": "cv-S/B1/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:58:04",
+    "usd": 0.003348,
+    "note": "cv-S/B1/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:58:08",
+    "usd": 0.002958,
+    "note": "cv-S/B1/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:58:11",
+    "usd": 0.005928,
+    "note": "cv-S/B2/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:58:14",
+    "usd": 0.004984,
+    "note": "cv-S/B2/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:58:17",
+    "usd": 0.006332,
+    "note": "cv-S/B2/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:58:20",
+    "usd": 0.005496,
+    "note": "cv-S/B2/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:58:23",
+    "usd": 0.007544,
+    "note": "cv-S/B2/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:58:25",
+    "usd": 0.007043,
+    "note": "cv-S/S/cv-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:58:32",
+    "usd": 0.008157,
+    "note": "cv-S/S/cv-S-start-year"
+  },
+  {
+    "at": "2026-10-16T12:58:37",
+    "usd": 0.008247,
+    "note": "cv-S/S/cv-S-title"
+  },
+  {
+    "at": "2026-10-16T12:58:46",
+    "usd": 0.003589,
+    "note": "cv-S/S/cv-S-add-skill"
+  },
+  {
+    "at": "2026-10-16T12:58:49",
+    "usd": 0.004837,
+    "note": "cv-S/S/cv-S-rename"
+  },
+  {
+    "at": "2026-10-16T12:59:07",
+    "usd": 0.064654,
+    "note": "adr-S/B0/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T12:59:26",
+    "usd": 0.066795,
+    "note": "adr-S/B0/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T12:59:44",
+    "usd": 0.065835,
+    "note": "adr-S/B0/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:00:03",
+    "usd": 0.065777,
+    "note": "adr-S/B0/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:00:06",
+    "usd": 0.017471,
+    "note": "adr-S/B1/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:00:09",
+    "usd": 0.008317,
+    "note": "adr-S/B1/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T13:00:12",
+    "usd": 0.005271,
+    "note": "adr-S/B1/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:00:15",
+    "usd": 0.00784,
+    "note": "adr-S/B1/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:00:17",
+    "usd": 0.005188,
+    "note": "adr-S/B2/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:00:20",
+    "usd": 0.012828,
+    "note": "adr-S/B2/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T13:00:23",
+    "usd": 0.00864,
+    "note": "adr-S/B2/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:00:30",
+    "usd": 0.012064,
+    "note": "adr-S/B2/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:00:32",
+    "usd": 0.006909,
+    "note": "adr-S/S/adr-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:00:36",
+    "usd": 0.011789,
+    "note": "adr-S/S/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-16T13:00:40",
+    "usd": 0.009987,
+    "note": "adr-S/S/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:00:45",
+    "usd": 0.013604,
+    "note": "adr-S/S/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:01:10",
+    "usd": 0.09487,
+    "note": "contract-S/B0/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:01:35",
+    "usd": 0.094973,
+    "note": "contract-S/B0/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T13:02:00",
+    "usd": 0.095002,
+    "note": "contract-S/B0/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T13:02:25",
+    "usd": 0.094986,
+    "note": "contract-S/B0/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T13:02:52",
+    "usd": 0.094618,
+    "note": "contract-S/B0/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T13:02:59",
+    "usd": 0.022741,
+    "note": "contract-S/B1/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:03:02",
+    "usd": 0.002784,
+    "note": "contract-S/B1/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T13:03:08",
+    "usd": 0.003876,
+    "note": "contract-S/B1/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T13:03:11",
+    "usd": 0.003181,
+    "note": "contract-S/B1/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T13:03:26",
+    "usd": 0.025201,
+    "note": "contract-S/B1/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T13:03:29",
+    "usd": 0.004652,
+    "note": "contract-S/B2/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:03:30",
+    "usd": 0.004264,
+    "note": "contract-S/B2/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T13:03:33",
+    "usd": 0.005756,
+    "note": "contract-S/B2/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T13:03:39",
+    "usd": 0.004448,
+    "note": "contract-S/B2/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T13:03:44",
+    "usd": 0.031236,
+    "note": "contract-S/B2/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T13:03:47",
+    "usd": 0.007579,
+    "note": "contract-S/S/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T13:03:49",
+    "usd": 0.00194,
+    "note": "contract-S/S/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T13:03:52",
+    "usd": 0.003604,
+    "note": "contract-S/S/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T13:03:56",
+    "usd": 0.008575,
+    "note": "contract-S/S/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T13:04:07",
+    "usd": 0.029591,
+    "note": "contract-S/S/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T13:49:59",
+    "usd": 0.038646,
+    "note": "cv-M/B1/cv-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:50:02",
+    "usd": 0.005272,
+    "note": "cv-M/B1/cv-M-start-year"
+  },
+  {
+    "at": "2026-10-16T13:50:05",
+    "usd": 0.004147,
+    "note": "cv-M/B1/cv-M-title"
+  },
+  {
+    "at": "2026-10-16T13:50:08",
+    "usd": 0.004397,
+    "note": "cv-M/B1/cv-M-add-skill"
+  },
+  {
+    "at": "2026-10-16T13:50:10",
+    "usd": 0.00389,
+    "note": "cv-M/B1/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T13:50:13",
+    "usd": 0.006868,
+    "note": "cv-M/B2/cv-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:50:16",
+    "usd": 0.005744,
+    "note": "cv-M/B2/cv-M-start-year"
+  },
+  {
+    "at": "2026-10-16T13:50:18",
+    "usd": 0.007412,
+    "note": "cv-M/B2/cv-M-title"
+  },
+  {
+    "at": "2026-10-16T13:50:21",
+    "usd": 0.006532,
+    "note": "cv-M/B2/cv-M-add-skill"
+  },
+  {
+    "at": "2026-10-16T13:50:24",
+    "usd": 0.009096,
+    "note": "cv-M/B2/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T13:50:27",
+    "usd": 0.007409,
+    "note": "cv-M/S/cv-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:50:33",
+    "usd": 0.007383,
+    "note": "cv-M/S/cv-M-start-year"
+  },
+  {
+    "at": "2026-10-16T13:50:36",
+    "usd": 0.010309,
+    "note": "cv-M/S/cv-M-title"
+  },
+  {
+    "at": "2026-10-16T13:50:41",
+    "usd": 0.004187,
+    "note": "cv-M/S/cv-M-add-skill"
+  },
+  {
+    "at": "2026-10-16T13:50:44",
+    "usd": 0.005999,
+    "note": "cv-M/S/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T13:50:47",
+    "usd": 0.099311,
+    "note": "adr-M/B1/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:50:52",
+    "usd": 0.011035,
+    "note": "adr-M/B1/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T13:50:54",
+    "usd": 0.008515,
+    "note": "adr-M/B1/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:50:58",
+    "usd": 0.011025,
+    "note": "adr-M/B1/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:51:02",
+    "usd": 0.0051,
+    "note": "adr-M/B2/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:51:07",
+    "usd": 0.016936,
+    "note": "adr-M/B2/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T13:51:10",
+    "usd": 0.01192,
+    "note": "adr-M/B2/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:51:17",
+    "usd": 0.014992,
+    "note": "adr-M/B2/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:51:22",
+    "usd": 0.011506,
+    "note": "adr-M/S/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T13:51:27",
+    "usd": 0.01247,
+    "note": "adr-M/S/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T13:51:33",
+    "usd": 0.015148,
+    "note": "adr-M/S/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T13:51:36",
+    "usd": 0.018425,
+    "note": "adr-M/S/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T13:51:46",
+    "usd": 0.125796,
+    "note": "contract-M/B1/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:04:53",
+    "usd": 0.125796,
+    "note": "contract-M/B1/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:04:56",
+    "usd": 0.006906,
+    "note": "contract-M/B1/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:05:01",
+    "usd": 0.007998,
+    "note": "contract-M/B1/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:05:05",
+    "usd": 0.007423,
+    "note": "contract-M/B1/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:05:59",
+    "usd": 0.101854,
+    "note": "contract-M/B1/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:06:02",
+    "usd": 0.004652,
+    "note": "contract-M/B2/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:06:04",
+    "usd": 0.004264,
+    "note": "contract-M/B2/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:06:07",
+    "usd": 0.005756,
+    "note": "contract-M/B2/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:06:10",
+    "usd": 0.004448,
+    "note": "contract-M/B2/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:06:30",
+    "usd": 0.163476,
+    "note": "contract-M/B2/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:06:33",
+    "usd": 0.015859,
+    "note": "contract-M/S/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:06:36",
+    "usd": 0.002273,
+    "note": "contract-M/S/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:06:39",
+    "usd": 0.004025,
+    "note": "contract-M/S/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:06:41",
+    "usd": 0.016895,
+    "note": "contract-M/S/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:07:01",
+    "usd": 0.129427,
+    "note": "contract-M/S/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:13:17",
+    "usd": 0.099311,
+    "note": "[worktree] adr-M/B1/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:15:21",
+    "usd": 0.011055,
+    "note": "[worktree] adr-M/B1/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T14:15:46",
+    "usd": 0.007579,
+    "note": "contract-S/S/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T14:15:48",
+    "usd": 0.002752,
+    "note": "contract-S/S/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T14:15:56",
+    "usd": 0.003604,
+    "note": "contract-S/S/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T14:15:58",
+    "usd": 0.003048,
+    "note": "contract-S/S/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T14:16:09",
+    "usd": 0.02224,
+    "note": "contract-S/S/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:16:13",
+    "usd": 0.015859,
+    "note": "contract-M/S/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:16:16",
+    "usd": 0.003085,
+    "note": "contract-M/S/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:16:19",
+    "usd": 0.004025,
+    "note": "contract-M/S/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:16:22",
+    "usd": 0.003441,
+    "note": "contract-M/S/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:16:55",
+    "usd": 0.120541,
+    "note": "contract-M/S/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:22:25",
+    "usd": 0.102581,
+    "note": "[worktree] adr-M/B1/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T14:25:29",
+    "usd": 0.011025,
+    "note": "[worktree] adr-M/B1/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T14:25:36",
+    "usd": 0.00585,
+    "note": "[worktree] adr-M/B1/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:26:24",
+    "usd": 0.007539,
+    "note": "contract-S/S/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T14:26:27",
+    "usd": 0.00194,
+    "note": "contract-S/S/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T14:26:30",
+    "usd": 0.00346,
+    "note": "contract-S/S/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T14:26:32",
+    "usd": 0.002492,
+    "note": "contract-S/S/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T14:26:42",
+    "usd": 0.021952,
+    "note": "contract-S/S/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:26:44",
+    "usd": 0.002072,
+    "note": "contract-S/SF/contract-S-reword"
+  },
+  {
+    "at": "2026-10-16T14:26:47",
+    "usd": 0.00194,
+    "note": "contract-S/SF/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T14:26:50",
+    "usd": 0.007883,
+    "note": "contract-S/SF-followup/contract-S-notice"
+  },
+  {
+    "at": "2026-10-16T14:26:53",
+    "usd": 0.00316,
+    "note": "contract-S/SF/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T14:26:55",
+    "usd": 0.001984,
+    "note": "contract-S/SF-followup/contract-S-fee"
+  },
+  {
+    "at": "2026-10-16T14:26:57",
+    "usd": 0.002492,
+    "note": "contract-S/SF/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T14:27:00",
+    "usd": 0.00172,
+    "note": "contract-S/SF-followup/contract-S-sla"
+  },
+  {
+    "at": "2026-10-16T14:27:09",
+    "usd": 0.019852,
+    "note": "contract-S/SF/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:27:11",
+    "usd": 0.011928,
+    "note": "contract-S/SF-followup/contract-S-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:27:15",
+    "usd": 0.015859,
+    "note": "contract-M/S/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:27:17",
+    "usd": 0.002273,
+    "note": "contract-M/S/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:27:20",
+    "usd": 0.003493,
+    "note": "contract-M/S/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:27:23",
+    "usd": 0.002825,
+    "note": "contract-M/S/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:27:40",
+    "usd": 0.010455,
+    "note": "[worktree] adr-M/B1/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T14:27:43",
+    "usd": 0.098685,
+    "note": "contract-M/S/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:27:46",
+    "usd": 0.002405,
+    "note": "contract-M/SF/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:27:49",
+    "usd": 0.002273,
+    "note": "contract-M/SF/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:27:52",
+    "usd": 0.016183,
+    "note": "contract-M/SF-followup/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:27:54",
+    "usd": 0.003493,
+    "note": "contract-M/SF/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:27:57",
+    "usd": 0.002313,
+    "note": "contract-M/SF-followup/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:28:02",
+    "usd": 0.002825,
+    "note": "contract-M/SF/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:28:05",
+    "usd": 0.002049,
+    "note": "contract-M/SF-followup/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:28:30",
+    "usd": 0.111705,
+    "note": "contract-M/SF/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:28:33",
+    "usd": 0.062469,
+    "note": "contract-M/SF-followup/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:28:47",
+    "usd": 0.007749,
+    "note": "cv-M/S/cv-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:28:50",
+    "usd": 0.005343,
+    "note": "cv-M/S/cv-M-start-year"
+  },
+  {
+    "at": "2026-10-16T14:28:53",
+    "usd": 0.006475,
+    "note": "cv-M/S/cv-M-title"
+  },
+  {
+    "at": "2026-10-16T14:28:55",
+    "usd": 0.004167,
+    "note": "cv-M/S/cv-M-add-skill"
+  },
+  {
+    "at": "2026-10-16T14:28:57",
+    "usd": 0.005999,
+    "note": "cv-M/S/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T14:29:00",
+    "usd": 0.003847,
+    "note": "cv-M/SF/cv-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:29:04",
+    "usd": 0.007323,
+    "note": "cv-M/SF/cv-M-start-year"
+  },
+  {
+    "at": "2026-10-16T14:29:07",
+    "usd": 0.006475,
+    "note": "cv-M/SF/cv-M-title"
+  },
+  {
+    "at": "2026-10-16T14:29:09",
+    "usd": 0.004167,
+    "note": "cv-M/SF/cv-M-add-skill"
+  },
+  {
+    "at": "2026-10-16T14:29:12",
+    "usd": 0.005999,
+    "note": "cv-M/SF/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T14:29:14",
+    "usd": 0.011077,
+    "note": "cv-M/SF-followup/cv-M-rename"
+  },
+  {
+    "at": "2026-10-16T14:29:17",
+    "usd": 0.011506,
+    "note": "adr-M/S/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:29:22",
+    "usd": 0.01163,
+    "note": "adr-M/S/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T14:29:24",
+    "usd": 0.006334,
+    "note": "adr-M/S/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T14:29:28",
+    "usd": 0.009486,
+    "note": "adr-M/S/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T14:29:31",
+    "usd": 0.002722,
+    "note": "adr-M/SF/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:29:35",
+    "usd": 0.01093,
+    "note": "adr-M/SF/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T14:29:38",
+    "usd": 0.006334,
+    "note": "adr-M/SF/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T14:29:45",
+    "usd": 0.009486,
+    "note": "adr-M/SF/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T14:29:48",
+    "usd": 0.002405,
+    "note": "contract-M/S/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:29:51",
+    "usd": 0.003085,
+    "note": "contract-M/S/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:29:54",
+    "usd": 0.004025,
+    "note": "contract-M/S/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:29:57",
+    "usd": 0.003441,
+    "note": "contract-M/S/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:30:27",
+    "usd": 0.115981,
+    "note": "contract-M/S/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:30:31",
+    "usd": 0.002405,
+    "note": "contract-M/SF/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:30:35",
+    "usd": 0.003085,
+    "note": "contract-M/SF/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:30:37",
+    "usd": 0.004325,
+    "note": "contract-M/SF/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:30:39",
+    "usd": 0.002473,
+    "note": "contract-M/SF-followup/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T14:30:42",
+    "usd": 0.003441,
+    "note": "contract-M/SF/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:30:44",
+    "usd": 0.002049,
+    "note": "contract-M/SF-followup/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T14:31:15",
+    "usd": 0.115801,
+    "note": "contract-M/SF/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:31:17",
+    "usd": 0.054885,
+    "note": "contract-M/SF-followup/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T14:34:44",
+    "usd": 0.162416,
+    "note": "[worktree] adr-M/B1/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T14:37:49",
+    "usd": 0.011565,
+    "note": "[worktree] adr-M/B1/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T14:37:58",
+    "usd": 0.011526,
+    "note": "[worktree] adr-M/S/adr-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:40:02",
+    "usd": 0.011374,
+    "note": "[worktree] adr-M/S/adr-M-supersede"
+  },
+  {
+    "at": "2026-10-16T14:47:06",
+    "usd": 0.015198,
+    "note": "[worktree] adr-M/S/adr-M-deprecate"
+  },
+  {
+    "at": "2026-10-16T14:50:09",
+    "usd": 0.009486,
+    "note": "[worktree] adr-M/S/adr-M-switch-tech"
+  },
+  {
+    "at": "2026-10-16T14:50:17",
+    "usd": 0.125796,
+    "note": "[worktree] contract-M/B1/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T14:52:24",
+    "usd": 0.006926,
+    "note": "[worktree] contract-M/B1/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T14:59:29",
+    "usd": 0.127701,
+    "note": "[worktree] contract-M/B1/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T15:02:35",
+    "usd": 0.007383,
+    "note": "[worktree] contract-M/B1/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T15:12:26",
+    "usd": 0.007306,
+    "note": "real-cv-jsonresume/B1/real-cv-jsonresume-reword"
+  },
+  {
+    "at": "2026-10-16T15:12:29",
+    "usd": 0.001699,
+    "note": "real-cv-jsonresume/B1/real-cv-jsonresume-end-year"
+  },
+  {
+    "at": "2026-10-16T15:12:34",
+    "usd": 0.003175,
+    "note": "real-cv-jsonresume/B1/real-cv-jsonresume-rename"
+  },
+  {
+    "at": "2026-10-16T15:12:38",
+    "usd": 0.002715,
+    "note": "real-cv-jsonresume/B1/real-cv-jsonresume-add"
+  },
+  {
+    "at": "2026-10-16T15:12:42",
+    "usd": 0.002397,
+    "note": "real-cv-jsonresume/B1/real-cv-jsonresume-remove"
+  },
+  {
+    "at": "2026-10-16T15:12:46",
+    "usd": 0.005288,
+    "note": "real-cv-jsonresume/B2/real-cv-jsonresume-reword"
+  },
+  {
+    "at": "2026-10-16T15:12:49",
+    "usd": 0.004868,
+    "note": "real-cv-jsonresume/B2/real-cv-jsonresume-end-year"
+  },
+  {
+    "at": "2026-10-16T15:12:53",
+    "usd": 0.007392,
+    "note": "real-cv-jsonresume/B2/real-cv-jsonresume-rename"
+  },
+  {
+    "at": "2026-10-16T15:12:55",
+    "usd": 0.004932,
+    "note": "real-cv-jsonresume/B2/real-cv-jsonresume-add"
+  },
+  {
+    "at": "2026-10-16T15:12:58",
+    "usd": 0.004164,
+    "note": "real-cv-jsonresume/B2/real-cv-jsonresume-remove"
+  },
+  {
+    "at": "2026-10-16T15:13:02",
+    "usd": 0.008362,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-reword"
+  },
+  {
+    "at": "2026-10-16T15:13:05",
+    "usd": 0.003802,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-end-year"
+  },
+  {
+    "at": "2026-10-16T15:13:08",
+    "usd": 0.00543,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-rename"
+  },
+  {
+    "at": "2026-10-16T15:13:10",
+    "usd": 0.003686,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-add"
+  },
+  {
+    "at": "2026-10-16T15:13:13",
+    "usd": 0.001666,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-remove"
+  },
+  {
+    "at": "2026-10-16T15:13:17",
+    "usd": 0.021456,
+    "note": "private-cv/B1/private-cv-reword"
+  },
+  {
+    "at": "2026-10-16T15:13:19",
+    "usd": 0.003481,
+    "note": "private-cv/B1/private-cv-volume"
+  },
+  {
+    "at": "2026-10-16T15:13:21",
+    "usd": 0.003437,
+    "note": "private-cv/B1/private-cv-migration"
+  },
+  {
+    "at": "2026-10-16T15:13:23",
+    "usd": 0.003647,
+    "note": "private-cv/B1/private-cv-headcount"
+  },
+  {
+    "at": "2026-10-16T15:13:26",
+    "usd": 0.006253,
+    "note": "private-cv/B1/private-cv-add-skill"
+  },
+  {
+    "at": "2026-10-16T15:13:28",
+    "usd": 0.004047,
+    "note": "private-cv/B1/private-cv-rename"
+  },
+  {
+    "at": "2026-10-16T15:13:33",
+    "usd": 0.009494,
+    "note": "private-cv/B1/private-cv-remove"
+  },
+  {
+    "at": "2026-10-16T15:13:36",
+    "usd": 0.010208,
+    "note": "private-cv/B2/private-cv-reword"
+  },
+  {
+    "at": "2026-10-16T15:13:38",
+    "usd": 0.003236,
+    "note": "private-cv/B2/private-cv-volume"
+  },
+  {
+    "at": "2026-10-16T15:13:40",
+    "usd": 0.003256,
+    "note": "private-cv/B2/private-cv-migration"
+  },
+  {
+    "at": "2026-10-16T15:13:43",
+    "usd": 0.008708,
+    "note": "private-cv/B2/private-cv-headcount"
+  },
+  {
+    "at": "2026-10-16T15:13:46",
+    "usd": 0.0106,
+    "note": "private-cv/B2/private-cv-add-skill"
+  },
+  {
+    "at": "2026-10-16T15:13:49",
+    "usd": 0.012264,
+    "note": "private-cv/B2/private-cv-rename"
+  },
+  {
+    "at": "2026-10-16T15:13:51",
+    "usd": 0.008468,
+    "note": "private-cv/B2/private-cv-remove"
+  },
+  {
+    "at": "2026-10-16T15:13:56",
+    "usd": 0.008523,
+    "note": "private-cv/S/private-cv-reword"
+  },
+  {
+    "at": "2026-10-16T15:13:58",
+    "usd": 0.000827,
+    "note": "private-cv/S/private-cv-volume"
+  },
+  {
+    "at": "2026-10-16T15:14:03",
+    "usd": 0.000847,
+    "note": "private-cv/S/private-cv-migration"
+  },
+  {
+    "at": "2026-10-16T15:14:06",
+    "usd": 0.004675,
+    "note": "private-cv/S/private-cv-headcount"
+  },
+  {
+    "at": "2026-10-16T15:14:09",
+    "usd": 0.006159,
+    "note": "private-cv/S/private-cv-add-skill"
+  },
+  {
+    "at": "2026-10-16T15:14:13",
+    "usd": 0.009311,
+    "note": "private-cv/S/private-cv-rename"
+  },
+  {
+    "at": "2026-10-16T15:14:16",
+    "usd": 0.002691,
+    "note": "private-cv/S/private-cv-remove"
+  },
+  {
+    "at": "2026-10-16T15:14:20",
+    "usd": 0.073416,
+    "note": "real-adr-backstage/B1/real-adr-backstage-reword"
+  },
+  {
+    "at": "2026-10-16T15:14:24",
+    "usd": 0.006381,
+    "note": "real-adr-backstage/B1/real-adr-backstage-supersede"
+  },
+  {
+    "at": "2026-10-16T15:14:29",
+    "usd": 0.004671,
+    "note": "real-adr-backstage/B1/real-adr-backstage-filename"
+  },
+  {
+    "at": "2026-10-16T15:14:48",
+    "usd": 0.034407,
+    "note": "real-adr-backstage/B1/real-adr-backstage-luxon"
+  },
+  {
+    "at": "2026-10-16T15:14:51",
+    "usd": 0.009043,
+    "note": "real-adr-backstage/B1/real-adr-backstage-remove"
+  },
+  {
+    "at": "2026-10-16T15:14:57",
+    "usd": 0.00508,
+    "note": "real-adr-backstage/B2/real-adr-backstage-reword"
+  },
+  {
+    "at": "2026-10-16T15:15:00",
+    "usd": 0.008112,
+    "note": "real-adr-backstage/B2/real-adr-backstage-supersede"
+  },
+  {
+    "at": "2026-10-16T15:15:03",
+    "usd": 0.003248,
+    "note": "real-adr-backstage/B2/real-adr-backstage-filename"
+  },
+  {
+    "at": "2026-10-16T15:15:05",
+    "usd": 0.003248,
+    "note": "real-adr-backstage/B2/real-adr-backstage-luxon"
+  },
+  {
+    "at": "2026-10-16T15:15:08",
+    "usd": 0.004512,
+    "note": "real-adr-backstage/B2/real-adr-backstage-remove"
+  },
+  {
+    "at": "2026-10-16T15:15:10",
+    "usd": 0.009886,
+    "note": "real-adr-backstage/S/real-adr-backstage-reword"
+  },
+  {
+    "at": "2026-10-16T15:15:13",
+    "usd": 0.006584,
+    "note": "real-adr-backstage/S/real-adr-backstage-supersede"
+  },
+  {
+    "at": "2026-10-16T15:15:16",
+    "usd": 0.001076,
+    "note": "real-adr-backstage/S/real-adr-backstage-filename"
+  },
+  {
+    "at": "2026-10-16T15:15:19",
+    "usd": 0.001016,
+    "note": "real-adr-backstage/S/real-adr-backstage-luxon"
+  },
+  {
+    "at": "2026-10-16T15:15:22",
+    "usd": 0.001712,
+    "note": "real-adr-backstage/S/real-adr-backstage-remove"
+  },
+  {
+    "at": "2026-10-16T15:15:27",
+    "usd": 0.105401,
+    "note": "real-adr-govuk/B1/real-adr-govuk-reword"
+  },
+  {
+    "at": "2026-10-16T15:15:31",
+    "usd": 0.005831,
+    "note": "real-adr-govuk/B1/real-adr-govuk-reject"
+  },
+  {
+    "at": "2026-10-16T15:15:31",
+    "usd": 0.225131,
+    "note": "[worktree] contract-M/B1/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T15:15:37",
+    "usd": 0.010787,
+    "note": "real-adr-govuk/B1/real-adr-govuk-supersede"
+  },
+  {
+    "at": "2026-10-16T15:15:39",
+    "usd": 0.200268,
+    "note": "[worktree] contract-M/B1/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T15:15:40",
+    "usd": 0.005762,
+    "note": "real-adr-govuk/B1/real-adr-govuk-version"
+  },
+  {
+    "at": "2026-10-16T15:15:55",
+    "usd": 0.025601,
+    "note": "real-adr-govuk/B1/real-adr-govuk-atlas"
+  },
+  {
+    "at": "2026-10-16T15:15:58",
+    "usd": 0.009349,
+    "note": "real-adr-govuk/B1/real-adr-govuk-add"
+  },
+  {
+    "at": "2026-10-16T15:16:02",
+    "usd": 0.009344,
+    "note": "real-adr-govuk/B2/real-adr-govuk-reword"
+  },
+  {
+    "at": "2026-10-16T15:16:04",
+    "usd": 0.009852,
+    "note": "real-adr-govuk/B2/real-adr-govuk-reject"
+  },
+  {
+    "at": "2026-10-16T15:16:07",
+    "usd": 0.0074,
+    "note": "real-adr-govuk/B2/real-adr-govuk-supersede"
+  },
+  {
+    "at": "2026-10-16T15:16:11",
+    "usd": 0.010164,
+    "note": "real-adr-govuk/B2/real-adr-govuk-version"
+  },
+  {
+    "at": "2026-10-16T15:16:16",
+    "usd": 0.018888,
+    "note": "real-adr-govuk/B2/real-adr-govuk-atlas"
+  },
+  {
+    "at": "2026-10-16T15:16:20",
+    "usd": 0.005792,
+    "note": "real-adr-govuk/B2/real-adr-govuk-add"
+  },
+  {
+    "at": "2026-10-16T15:16:23",
+    "usd": 0.015515,
+    "note": "real-adr-govuk/S/real-adr-govuk-reword"
+  },
+  {
+    "at": "2026-10-16T15:16:25",
+    "usd": 0.007644,
+    "note": "real-adr-govuk/S/real-adr-govuk-reject"
+  },
+  {
+    "at": "2026-10-16T15:16:28",
+    "usd": 0.004936,
+    "note": "real-adr-govuk/S/real-adr-govuk-supersede"
+  },
+  {
+    "at": "2026-10-16T15:16:31",
+    "usd": 0.007956,
+    "note": "real-adr-govuk/S/real-adr-govuk-version"
+  },
+  {
+    "at": "2026-10-16T15:16:41",
+    "usd": 0.0297,
+    "note": "real-adr-govuk/S/real-adr-govuk-atlas"
+  },
+  {
+    "at": "2026-10-16T15:16:44",
+    "usd": 0.003548,
+    "note": "real-adr-govuk/S/real-adr-govuk-add"
+  },
+  {
+    "at": "2026-10-16T15:17:42",
+    "usd": 0.007565,
+    "note": "[worktree] contract-M/B1/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T15:20:07",
+    "usd": 0.008362,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-reword"
+  },
+  {
+    "at": "2026-10-16T15:20:10",
+    "usd": 0.003802,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-end-year"
+  },
+  {
+    "at": "2026-10-16T15:20:13",
+    "usd": 0.00543,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-rename"
+  },
+  {
+    "at": "2026-10-16T15:20:15",
+    "usd": 0.003686,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-add"
+  },
+  {
+    "at": "2026-10-16T15:20:21",
+    "usd": 0.001562,
+    "note": "real-cv-jsonresume/S/real-cv-jsonresume-remove"
+  },
+  {
+    "at": "2026-10-16T15:20:24",
+    "usd": 0.003226,
+    "note": "real-cv-jsonresume/SL/real-cv-jsonresume-reword"
+  },
+  {
+    "at": "2026-10-16T15:20:27",
+    "usd": 0.003802,
+    "note": "real-cv-jsonresume/SL/real-cv-jsonresume-end-year"
+  },
+  {
+    "at": "2026-10-16T15:20:29",
+    "usd": 0.003686,
+    "note": "real-cv-jsonresume/SL/real-cv-jsonresume-add"
+  },
+  {
+    "at": "2026-10-16T15:20:31",
+    "usd": 0.001562,
+    "note": "real-cv-jsonresume/SL/real-cv-jsonresume-remove"
+  },
+  {
+    "at": "2026-10-16T15:20:33",
+    "usd": 0.009395,
+    "note": "private-cv/S/private-cv-reword"
+  },
+  {
+    "at": "2026-10-16T15:20:38",
+    "usd": 0.005751,
+    "note": "private-cv/S/private-cv-volume"
+  },
+  {
+    "at": "2026-10-16T15:20:40",
+    "usd": 0.006583,
+    "note": "private-cv/S/private-cv-migration"
+  },
+  {
+    "at": "2026-10-16T15:20:43",
+    "usd": 0.004675,
+    "note": "private-cv/S/private-cv-headcount"
+  },
+  {
+    "at": "2026-10-16T15:20:46",
+    "usd": 0.005491,
+    "note": "private-cv/S/private-cv-add-skill"
+  },
+  {
+    "at": "2026-10-16T15:20:49",
+    "usd": 0.009715,
+    "note": "private-cv/S/private-cv-rename"
+  },
+  {
+    "at": "2026-10-16T15:20:53",
+    "usd": 0.003535,
+    "note": "private-cv/S/private-cv-remove"
+  },
+  {
+    "at": "2026-10-16T15:20:57",
+    "usd": 0.004823,
+    "note": "private-cv/SL/private-cv-reword"
+  },
+  {
+    "at": "2026-10-16T15:21:00",
+    "usd": 0.005751,
+    "note": "private-cv/SL/private-cv-volume"
+  },
+  {
+    "at": "2026-10-16T15:21:05",
+    "usd": 0.006547,
+    "note": "private-cv/SL/private-cv-migration"
+  },
+  {
+    "at": "2026-10-16T15:21:08",
+    "usd": 0.004675,
+    "note": "private-cv/SL/private-cv-headcount"
+  },
+  {
+    "at": "2026-10-16T15:21:11",
+    "usd": 0.005551,
+    "note": "private-cv/SL/private-cv-add-skill"
+  },
+  {
+    "at": "2026-10-16T15:21:14",
+    "usd": 0.003535,
+    "note": "private-cv/SL/private-cv-remove"
+  },
+  {
+    "at": "2026-10-16T15:21:16",
+    "usd": 0.009686,
+    "note": "real-adr-backstage/S/real-adr-backstage-reword"
+  },
+  {
+    "at": "2026-10-16T15:21:20",
+    "usd": 0.006704,
+    "note": "real-adr-backstage/S/real-adr-backstage-supersede"
+  },
+  {
+    "at": "2026-10-16T15:21:22",
+    "usd": 0.00228,
+    "note": "real-adr-backstage/S/real-adr-backstage-filename"
+  },
+  {
+    "at": "2026-10-16T15:21:34",
+    "usd": 0.022092,
+    "note": "real-adr-backstage/S/real-adr-backstage-luxon"
+  },
+  {
+    "at": "2026-10-16T15:21:39",
+    "usd": 0.006624,
+    "note": "real-adr-backstage/S/real-adr-backstage-remove"
+  },
+  {
+    "at": "2026-10-16T15:21:41",
+    "usd": 0.002536,
+    "note": "real-adr-backstage/SL/real-adr-backstage-reword"
+  },
+  {
+    "at": "2026-10-16T15:21:45",
+    "usd": 0.006656,
+    "note": "real-adr-backstage/SL/real-adr-backstage-supersede"
+  },
+  {
+    "at": "2026-10-16T15:21:47",
+    "usd": 0.00228,
+    "note": "real-adr-backstage/SL/real-adr-backstage-filename"
+  },
+  {
+    "at": "2026-10-16T15:21:55",
+    "usd": 0.021512,
+    "note": "real-adr-backstage/SL/real-adr-backstage-luxon"
+  },
+  {
+    "at": "2026-10-16T15:21:57",
+    "usd": 0.006132,
+    "note": "real-adr-backstage/SL/real-adr-backstage-remove"
+  },
+  {
+    "at": "2026-10-16T15:22:01",
+    "usd": 0.019491,
+    "note": "real-adr-govuk/S/real-adr-govuk-reword"
+  },
+  {
+    "at": "2026-10-16T15:22:04",
+    "usd": 0.007608,
+    "note": "real-adr-govuk/S/real-adr-govuk-reject"
+  },
+  {
+    "at": "2026-10-16T15:22:06",
+    "usd": 0.005276,
+    "note": "real-adr-govuk/S/real-adr-govuk-supersede"
+  },
+  {
+    "at": "2026-10-16T15:22:09",
+    "usd": 0.00508,
+    "note": "real-adr-govuk/S/real-adr-govuk-version"
+  },
+  {
+    "at": "2026-10-16T15:22:23",
+    "usd": 0.028864,
+    "note": "real-adr-govuk/S/real-adr-govuk-atlas"
+  },
+  {
+    "at": "2026-10-16T15:22:27",
+    "usd": 0.004176,
+    "note": "real-adr-govuk/S/real-adr-govuk-add"
+  },
+  {
+    "at": "2026-10-16T15:22:31",
+    "usd": 0.008264,
+    "note": "real-adr-govuk/SL/real-adr-govuk-reword"
+  },
+  {
+    "at": "2026-10-16T15:22:33",
+    "usd": 0.007608,
+    "note": "real-adr-govuk/SL/real-adr-govuk-reject"
+  },
+  {
+    "at": "2026-10-16T15:22:36",
+    "usd": 0.005196,
+    "note": "real-adr-govuk/SL/real-adr-govuk-supersede"
+  },
+  {
+    "at": "2026-10-16T15:22:39",
+    "usd": 0.00508,
+    "note": "real-adr-govuk/SL/real-adr-govuk-version"
+  },
+  {
+    "at": "2026-10-16T15:22:54",
+    "usd": 0.031024,
+    "note": "real-adr-govuk/SL/real-adr-govuk-atlas"
+  },
+  {
+    "at": "2026-10-16T15:22:57",
+    "usd": 0.004176,
+    "note": "real-adr-govuk/SL/real-adr-govuk-add"
+  },
+  {
+    "at": "2026-10-16T15:24:48",
+    "usd": 0.008303,
+    "note": "[worktree] contract-M/B1/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T15:27:51",
+    "usd": 0.008094,
+    "note": "[worktree] contract-M/B1/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T15:40:49",
+    "usd": 0.105196,
+    "note": "[worktree] contract-M/B1/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T15:40:56",
+    "usd": 0.015899,
+    "note": "[worktree] contract-M/S/contract-M-reword"
+  },
+  {
+    "at": "2026-10-16T15:42:58",
+    "usd": 0.002273,
+    "note": "[worktree] contract-M/S/contract-M-notice"
+  },
+  {
+    "at": "2026-10-16T15:50:05",
+    "usd": 0.017479,
+    "note": "[worktree] contract-M/S/contract-M-fee"
+  },
+  {
+    "at": "2026-10-16T15:53:07",
+    "usd": 0.003441,
+    "note": "[worktree] contract-M/S/contract-M-sla"
+  },
+  {
+    "at": "2026-10-16T16:05:32",
+    "usd": 0.145747,
+    "note": "[worktree] contract-M/S/contract-M-rename-term"
+  },
+  {
+    "at": "2026-10-16T17:12:39",
+    "usd": 0.014031,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:12:41",
+    "usd": 0.002301,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:12:43",
+    "usd": 0.00215,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:12:45",
+    "usd": 0.00301,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:12:47",
+    "usd": 0.001951,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:12:49",
+    "usd": 0.002094,
+    "note": "fresh-cv-rendercv/B1/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:12:52",
+    "usd": 0.056021,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:12:59",
+    "usd": 0.01924,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:13:01",
+    "usd": 0.005031,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:13:04",
+    "usd": 0.007796,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:13:07",
+    "usd": 0.007302,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:13:09",
+    "usd": 0.004776,
+    "note": "fresh-contract-commonpaper/B1/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:13:14",
+    "usd": 0.252601,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:13:20",
+    "usd": 0.01429,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:13:24",
+    "usd": 0.013063,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:13:33",
+    "usd": 0.018071,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:13:41",
+    "usd": 0.015569,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:13:49",
+    "usd": 0.01906,
+    "note": "fresh-adr-moj/B1/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-16T17:13:58",
+    "usd": 0.007951,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:14:00",
+    "usd": 0.002029,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:14:03",
+    "usd": 0.003225,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:14:06",
+    "usd": 0.004169,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:14:09",
+    "usd": 0.002449,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:14:13",
+    "usd": 0.002613,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:14:15",
+    "usd": 0.00937,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:14:20",
+    "usd": 0.018553,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:14:24",
+    "usd": 0.005413,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:14:29",
+    "usd": 0.007049,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:14:33",
+    "usd": 0.004225,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:14:35",
+    "usd": 0.005305,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:14:39",
+    "usd": 0.023728,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:14:44",
+    "usd": 0.009288,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:14:49",
+    "usd": 0.03298,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:14:54",
+    "usd": 0.017304,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:14:58",
+    "usd": 0.023424,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:15:02",
+    "usd": 0.029436,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-16T17:15:11",
+    "usd": 0.002733,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:15:16",
+    "usd": 0.001909,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:15:18",
+    "usd": 0.003061,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:15:21",
+    "usd": 0.004013,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:15:24",
+    "usd": 0.002449,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:15:27",
+    "usd": 0.002389,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:15:29",
+    "usd": 0.003293,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:15:34",
+    "usd": 0.016733,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:15:37",
+    "usd": 0.002485,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:15:42",
+    "usd": 0.007349,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:15:47",
+    "usd": 0.005573,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:15:50",
+    "usd": 0.005305,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:15:53",
+    "usd": 0.006364,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:15:58",
+    "usd": 0.005972,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:16:02",
+    "usd": 0.028888,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:16:07",
+    "usd": 0.012344,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:16:10",
+    "usd": 0.006608,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:16:14",
+    "usd": 0.008144,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-16T17:16:23",
+    "usd": 0.002673,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:16:25",
+    "usd": 0.002029,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:16:28",
+    "usd": 0.003225,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:16:32",
+    "usd": 0.004289,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:16:35",
+    "usd": 0.002449,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:16:37",
+    "usd": 0.002809,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:16:39",
+    "usd": 0.002813,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:16:44",
+    "usd": 0.018553,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:16:49",
+    "usd": 0.006913,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:16:54",
+    "usd": 0.005949,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:16:56",
+    "usd": 0.005789,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:16:58",
+    "usd": 0.005305,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:17:01",
+    "usd": 0.010768,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:17:05",
+    "usd": 0.009548,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:17:08",
+    "usd": 0.0327,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:17:15",
+    "usd": 0.017824,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:17:19",
+    "usd": 0.02484,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:17:25",
+    "usd": 0.029664,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-16T17:17:33",
+    "usd": 0.003173,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:17:37",
+    "usd": 0.002201,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:17:39",
+    "usd": 0.003061,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:17:42",
+    "usd": 0.004593,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:17:44",
+    "usd": 0.002909,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:17:48",
+    "usd": 0.002389,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:17:51",
+    "usd": 0.006913,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:18:00",
+    "usd": 0.017801,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:18:03",
+    "usd": 0.004741,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:18:11",
+    "usd": 0.008549,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:18:13",
+    "usd": 0.005281,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:18:15",
+    "usd": 0.004269,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:18:18",
+    "usd": 0.006108,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:18:22",
+    "usd": 0.005712,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:18:27",
+    "usd": 0.027984,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:18:30",
+    "usd": 0.010004,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:18:35",
+    "usd": 0.01154,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:18:37",
+    "usd": 0.00304,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-16T17:18:45",
+    "usd": 0.003153,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-reword"
+  },
+  {
+    "at": "2026-10-16T17:18:48",
+    "usd": 0.002201,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-fulbright"
+  },
+  {
+    "at": "2026-10-16T17:18:50",
+    "usd": 0.003225,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-rename"
+  },
+  {
+    "at": "2026-10-16T17:18:56",
+    "usd": 0.004869,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-skill"
+  },
+  {
+    "at": "2026-10-16T17:18:58",
+    "usd": 0.002449,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-series-a"
+  },
+  {
+    "at": "2026-10-16T17:19:00",
+    "usd": 0.002809,
+    "note": "fresh-cv-rendercv/S/fresh-cv-rendercv-remove"
+  },
+  {
+    "at": "2026-10-16T17:19:03",
+    "usd": 0.006093,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-reword"
+  },
+  {
+    "at": "2026-10-16T17:19:08",
+    "usd": 0.018673,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-xref"
+  },
+  {
+    "at": "2026-10-16T17:19:11",
+    "usd": 0.007957,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-dispute"
+  },
+  {
+    "at": "2026-10-16T17:19:16",
+    "usd": 0.008429,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-rename"
+  },
+  {
+    "at": "2026-10-16T17:19:18",
+    "usd": 0.008825,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-remove"
+  },
+  {
+    "at": "2026-10-16T17:19:21",
+    "usd": 0.005305,
+    "note": "fresh-contract-commonpaper/S/fresh-contract-commonpaper-add"
+  },
+  {
+    "at": "2026-10-16T17:19:23",
+    "usd": 0.010768,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-reword"
+  },
+  {
+    "at": "2026-10-16T17:19:27",
+    "usd": 0.009548,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-accept"
+  },
+  {
+    "at": "2026-10-16T17:19:30",
+    "usd": 0.0327,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-supersede"
+  },
+  {
+    "at": "2026-10-16T17:19:37",
+    "usd": 0.017824,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-retitle"
+  },
+  {
+    "at": "2026-10-16T17:19:41",
+    "usd": 0.027,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-concourse"
+  },
+  {
+    "at": "2026-10-16T17:19:48",
+    "usd": 0.028908,
+    "note": "fresh-adr-moj/S/fresh-adr-moj-remove"
+  },
+  {
+    "at": "2026-10-17T09:44:36",
+    "usd": 0.006461,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:44:38",
+    "usd": 0.001367,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:44:40",
+    "usd": 0.00151,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:44:41",
+    "usd": 0.001407,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:44:43",
+    "usd": 0.001215,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:44:45",
+    "usd": 0.001622,
+    "note": "fresh2-cv-best-resume/B1/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:44:48",
+    "usd": 0.032496,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:44:49",
+    "usd": 0.003826,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:44:51",
+    "usd": 0.004544,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:44:53",
+    "usd": 0.003319,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:44:55",
+    "usd": 0.002849,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:44:57",
+    "usd": 0.003168,
+    "note": "fresh2-adr-log4brains/B1/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:45:00",
+    "usd": 0.059211,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:45:03",
+    "usd": 0.003974,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:45:07",
+    "usd": 0.00973,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:45:10",
+    "usd": 0.004039,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:45:14",
+    "usd": 0.009118,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:45:18",
+    "usd": 0.010191,
+    "note": "fresh2-contract-bonterms/B1/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:45:24",
+    "usd": 0.170061,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:45:28",
+    "usd": 0.010403,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:45:37",
+    "usd": 0.023426,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:45:40",
+    "usd": 0.013898,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:45:45",
+    "usd": 0.010781,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:45:55",
+    "usd": 0.028168,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:46:11",
+    "usd": 0.005239,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:46:13",
+    "usd": 0.003376,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:46:15",
+    "usd": 0.002748,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:46:18",
+    "usd": 0.001504,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:46:21",
+    "usd": 0.001284,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:46:28",
+    "usd": 0.000736,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:46:30",
+    "usd": 0.006852,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:46:31",
+    "usd": 0.000919,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:46:34",
+    "usd": 0.003611,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:46:36",
+    "usd": 0.005839,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:46:38",
+    "usd": 0.000823,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:46:43",
+    "usd": 0.000863,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:46:45",
+    "usd": 0.008813,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:46:51",
+    "usd": 0.008334,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:46:55",
+    "usd": 0.011686,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:46:58",
+    "usd": 0.002598,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:47:01",
+    "usd": 0.02135,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:47:03",
+    "usd": 0.000978,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:47:09",
+    "usd": 0.01503,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:47:13",
+    "usd": 0.009179,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:47:16",
+    "usd": 0.000943,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:47:19",
+    "usd": 0.017771,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:47:23",
+    "usd": 0.024919,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:47:30",
+    "usd": 0.017795,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:47:46",
+    "usd": 0.002992,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:47:48",
+    "usd": 0.002768,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:47:50",
+    "usd": 0.002628,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:47:52",
+    "usd": 0.001432,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:47:59",
+    "usd": 0.001284,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:48:01",
+    "usd": 0.002208,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:48:04",
+    "usd": 0.001987,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:48:07",
+    "usd": 0.003343,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:48:09",
+    "usd": 0.007559,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:48:12",
+    "usd": 0.004327,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:48:13",
+    "usd": 0.003871,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:48:16",
+    "usd": 0.003087,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:48:19",
+    "usd": 0.002246,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:48:21",
+    "usd": 0.004126,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:48:24",
+    "usd": 0.006594,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:48:28",
+    "usd": 0.001214,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:48:32",
+    "usd": 0.008634,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:48:35",
+    "usd": 0.004886,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:48:38",
+    "usd": 0.004787,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:48:41",
+    "usd": 0.006255,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:48:48",
+    "usd": 0.016667,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:48:52",
+    "usd": 0.002771,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:48:55",
+    "usd": 0.020631,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:48:59",
+    "usd": 0.004843,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:49:19",
+    "usd": 0.002932,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:49:21",
+    "usd": 0.003316,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:49:24",
+    "usd": 0.002748,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:49:27",
+    "usd": 0.001504,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:49:28",
+    "usd": 0.001284,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:49:31",
+    "usd": 0.002208,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:49:34",
+    "usd": 0.001987,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:49:37",
+    "usd": 0.003343,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:49:41",
+    "usd": 0.004735,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:49:43",
+    "usd": 0.006143,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:49:45",
+    "usd": 0.007959,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:49:49",
+    "usd": 0.004247,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:49:52",
+    "usd": 0.002266,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:49:59",
+    "usd": 0.009502,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:50:03",
+    "usd": 0.011446,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:50:07",
+    "usd": 0.002598,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:50:10",
+    "usd": 0.022574,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:50:13",
+    "usd": 0.005006,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:50:20",
+    "usd": 0.005767,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:50:23",
+    "usd": 0.009179,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:50:29",
+    "usd": 0.020543,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:50:33",
+    "usd": 0.017771,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:50:36",
+    "usd": 0.024559,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:50:43",
+    "usd": 0.015375,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:51:06",
+    "usd": 0.00342,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:51:09",
+    "usd": 0.003036,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:51:12",
+    "usd": 0.001424,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:51:14",
+    "usd": 0.001508,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:51:16",
+    "usd": 0.001284,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:51:19",
+    "usd": 0.002208,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:51:22",
+    "usd": 0.002235,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:51:24",
+    "usd": 0.003059,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:51:27",
+    "usd": 0.004147,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:51:29",
+    "usd": 0.004327,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:51:32",
+    "usd": 0.003115,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:51:34",
+    "usd": 0.004519,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:51:37",
+    "usd": 0.003066,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:51:41",
+    "usd": 0.003634,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:51:44",
+    "usd": 0.005138,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:51:47",
+    "usd": 0.005306,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:51:51",
+    "usd": 0.00675,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:51:54",
+    "usd": 0.003546,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:51:57",
+    "usd": 0.004787,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:51:59",
+    "usd": 0.003003,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:52:06",
+    "usd": 0.019575,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:52:09",
+    "usd": 0.003555,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:52:12",
+    "usd": 0.021235,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:52:19",
+    "usd": 0.018355,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:52:38",
+    "usd": 0.003084,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:52:40",
+    "usd": 0.003316,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:52:45",
+    "usd": 0.002748,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:52:52",
+    "usd": 0.001724,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:52:54",
+    "usd": 0.001284,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:52:56",
+    "usd": 0.002208,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:52:59",
+    "usd": 0.002235,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:53:01",
+    "usd": 0.003343,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:53:04",
+    "usd": 0.005039,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:53:10",
+    "usd": 0.006083,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:53:16",
+    "usd": 0.009027,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:53:22",
+    "usd": 0.005131,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:53:24",
+    "usd": 0.003234,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:53:28",
+    "usd": 0.009502,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:53:31",
+    "usd": 0.011446,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:53:34",
+    "usd": 0.004998,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:53:41",
+    "usd": 0.022574,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:53:42",
+    "usd": 0.005494,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T09:53:48",
+    "usd": 0.005767,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T09:53:51",
+    "usd": 0.009179,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T09:53:59",
+    "usd": 0.024051,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T09:54:02",
+    "usd": 0.017771,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T09:54:06",
+    "usd": 0.024939,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T09:54:13",
+    "usd": 0.017375,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T09:54:41",
+    "usd": 0.003496,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T09:54:44",
+    "usd": 0.00364,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T09:54:47",
+    "usd": 0.003592,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T09:54:50",
+    "usd": 0.001944,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T09:54:55",
+    "usd": 0.001976,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T09:54:57",
+    "usd": 0.0024,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T09:55:34",
+    "usd": 0.004199,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T09:55:37",
+    "usd": 0.004851,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T09:55:45",
+    "usd": 0.004671,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T09:55:48",
+    "usd": 0.004687,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T09:55:50",
+    "usd": 0.003467,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T09:55:53",
+    "usd": 0.005375,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T09:56:40",
+    "usd": 0.002886,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T09:56:48",
+    "usd": 0.007726,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T09:56:56",
+    "usd": 0.006882,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T09:57:00",
+    "usd": 0.006694,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T09:57:06",
+    "usd": 0.007394,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T09:57:10",
+    "usd": 0.005418,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T10:00:27",
+    "usd": 0.015506,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T10:00:33",
+    "usd": 0.010659,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T10:00:42",
+    "usd": 0.019659,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T10:00:49",
+    "usd": 0.005111,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T10:00:54",
+    "usd": 0.021355,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T10:01:02",
+    "usd": 0.017475,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T10:01:29",
+    "usd": 0.008043,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T10:01:31",
+    "usd": 0.003692,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T10:01:34",
+    "usd": 0.003424,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T10:01:36",
+    "usd": 0.001944,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T10:01:38",
+    "usd": 0.00172,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T10:01:42",
+    "usd": 0.002248,
+    "note": "fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T10:02:23",
+    "usd": 0.010228,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T10:02:27",
+    "usd": 0.004319,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T10:02:30",
+    "usd": 0.005611,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T10:02:34",
+    "usd": 0.006839,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T10:02:37",
+    "usd": 0.007707,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T10:02:41",
+    "usd": 0.005491,
+    "note": "fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T10:03:29",
+    "usd": 0.010801,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T10:03:35",
+    "usd": 0.010586,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T10:03:43",
+    "usd": 0.011446,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T10:03:48",
+    "usd": 0.004638,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T10:03:55",
+    "usd": 0.023878,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T10:04:01",
+    "usd": 0.00693,
+    "note": "fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T10:07:12",
+    "usd": 0.016506,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T10:07:19",
+    "usd": 0.008799,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T10:07:30",
+    "usd": 0.025619,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T10:07:39",
+    "usd": 0.018587,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T10:07:46",
+    "usd": 0.024559,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T10:07:56",
+    "usd": 0.019343,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T10:53:59",
+    "usd": 0.006461,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T10:54:01",
+    "usd": 0.001367,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T10:54:03",
+    "usd": 0.00123,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T10:54:05",
+    "usd": 0.001337,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T10:54:07",
+    "usd": 0.001213,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T10:54:09",
+    "usd": 0.001619,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T10:55:09",
+    "usd": 0.032496,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T10:55:11",
+    "usd": 0.004306,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T10:55:15",
+    "usd": 0.004664,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T10:55:17",
+    "usd": 0.003324,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T10:55:20",
+    "usd": 0.004434,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T10:55:23",
+    "usd": 0.003488,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T10:56:39",
+    "usd": 0.059211,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T10:56:42",
+    "usd": 0.003974,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T10:56:48",
+    "usd": 0.01143,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T10:56:55",
+    "usd": 0.004119,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T10:57:01",
+    "usd": 0.011478,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T10:57:10",
+    "usd": 0.011072,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:02:16",
+    "usd": 0.170061,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:02:21",
+    "usd": 0.009463,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:02:35",
+    "usd": 0.036531,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:02:45",
+    "usd": 0.013994,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:02:50",
+    "usd": 0.013036,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:03:02",
+    "usd": 0.029478,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:03:52",
+    "usd": 0.008123,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T11:03:54",
+    "usd": 0.003692,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T11:04:00",
+    "usd": 0.003424,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T11:04:03",
+    "usd": 0.001944,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T11:04:05",
+    "usd": 0.00172,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T11:04:11",
+    "usd": 0.002248,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T11:05:16",
+    "usd": 0.010228,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T11:05:20",
+    "usd": 0.004379,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T11:05:25",
+    "usd": 0.005551,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T11:05:28",
+    "usd": 0.006839,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T11:05:32",
+    "usd": 0.007707,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T11:05:36",
+    "usd": 0.005491,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T11:07:03",
+    "usd": 0.010801,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T11:07:13",
+    "usd": 0.011258,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T11:07:25",
+    "usd": 0.012162,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T11:07:33",
+    "usd": 0.004638,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T11:07:44",
+    "usd": 0.023338,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T11:07:53",
+    "usd": 0.00693,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:11:29",
+    "usd": 0.016506,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:11:36",
+    "usd": 0.009179,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:11:44",
+    "usd": 0.021479,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:11:53",
+    "usd": 0.018587,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:12:01",
+    "usd": 0.024559,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:12:09",
+    "usd": 0.016163,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:12:27",
+    "usd": 0.007479,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T11:12:29",
+    "usd": 0.003376,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T11:12:31",
+    "usd": 0.002748,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T11:12:34",
+    "usd": 0.001504,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T11:12:37",
+    "usd": 0.001284,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T11:12:39",
+    "usd": 0.002208,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T11:12:42",
+    "usd": 0.008016,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T11:12:49",
+    "usd": 0.003343,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T11:12:53",
+    "usd": 0.004735,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T11:12:58",
+    "usd": 0.006143,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T11:13:00",
+    "usd": 0.005579,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T11:13:02",
+    "usd": 0.003087,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T11:13:05",
+    "usd": 0.002746,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T11:13:10",
+    "usd": 0.009502,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T11:13:14",
+    "usd": 0.011566,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T11:13:17",
+    "usd": 0.002598,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T11:13:20",
+    "usd": 0.022574,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T11:13:23",
+    "usd": 0.004886,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:13:27",
+    "usd": 0.005767,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:13:30",
+    "usd": 0.009179,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:13:37",
+    "usd": 0.021083,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:13:40",
+    "usd": 0.017771,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:13:44",
+    "usd": 0.024739,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:13:55",
+    "usd": 0.013175,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:14:24",
+    "usd": 0.006461,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T11:14:25",
+    "usd": 0.001367,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T11:14:27",
+    "usd": 0.00151,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T11:14:29",
+    "usd": 0.001407,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T11:14:31",
+    "usd": 0.001215,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T11:14:33",
+    "usd": 0.001622,
+    "note": "[worktree] fresh2-cv-best-resume/B1/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T11:15:36",
+    "usd": 0.032496,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T11:15:39",
+    "usd": 0.004306,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T11:15:42",
+    "usd": 0.004664,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T11:15:45",
+    "usd": 0.003324,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T11:15:47",
+    "usd": 0.004434,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T11:15:49",
+    "usd": 0.003488,
+    "note": "[worktree] fresh2-adr-log4brains/B1/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T11:16:51",
+    "usd": 0.059211,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T11:16:55",
+    "usd": 0.003974,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T11:17:00",
+    "usd": 0.01037,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T11:17:07",
+    "usd": 0.004119,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T11:17:14",
+    "usd": 0.013998,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T11:17:23",
+    "usd": 0.011322,
+    "note": "[worktree] fresh2-contract-bonterms/B1/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:21:11",
+    "usd": 0.170061,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:21:18",
+    "usd": 0.010403,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:21:27",
+    "usd": 0.023446,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:21:33",
+    "usd": 0.013903,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:21:39",
+    "usd": 0.012962,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:21:50",
+    "usd": 0.028518,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:22:17",
+    "usd": 0.008123,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T11:22:19",
+    "usd": 0.003692,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T11:22:22",
+    "usd": 0.003424,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T11:22:25",
+    "usd": 0.001944,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T11:22:26",
+    "usd": 0.00172,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T11:22:32",
+    "usd": 0.002248,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T11:23:10",
+    "usd": 0.010228,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T11:23:13",
+    "usd": 0.004319,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T11:23:17",
+    "usd": 0.006391,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T11:23:20",
+    "usd": 0.006839,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T11:23:23",
+    "usd": 0.007707,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T11:23:27",
+    "usd": 0.005491,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T11:24:16",
+    "usd": 0.010801,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T11:24:22",
+    "usd": 0.011582,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T11:24:31",
+    "usd": 0.011446,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T11:24:36",
+    "usd": 0.004638,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T11:24:43",
+    "usd": 0.024082,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T11:24:49",
+    "usd": 0.00693,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:28:00",
+    "usd": 0.016506,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:28:07",
+    "usd": 0.009179,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:28:15",
+    "usd": 0.024319,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:28:24",
+    "usd": 0.018587,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:28:31",
+    "usd": 0.024579,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:28:39",
+    "usd": 0.016083,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:28:55",
+    "usd": 0.007339,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-reword"
+  },
+  {
+    "at": "2026-10-17T11:28:57",
+    "usd": 0.003316,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-start"
+  },
+  {
+    "at": "2026-10-17T11:29:00",
+    "usd": 0.002748,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-rename"
+  },
+  {
+    "at": "2026-10-17T11:29:02",
+    "usd": 0.001504,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-skill"
+  },
+  {
+    "at": "2026-10-17T11:29:04",
+    "usd": 0.001284,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-remove"
+  },
+  {
+    "at": "2026-10-17T11:29:06",
+    "usd": 0.002208,
+    "note": "[worktree] fresh2-cv-best-resume/S/fresh2-cv-best-resume-add"
+  },
+  {
+    "at": "2026-10-17T11:29:09",
+    "usd": 0.008016,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-reword"
+  },
+  {
+    "at": "2026-10-17T11:29:13",
+    "usd": 0.003463,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-supersede"
+  },
+  {
+    "at": "2026-10-17T11:29:15",
+    "usd": 0.004735,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-slug-rename"
+  },
+  {
+    "at": "2026-10-17T11:29:17",
+    "usd": 0.006143,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-deprecate"
+  },
+  {
+    "at": "2026-10-17T11:29:20",
+    "usd": 0.007619,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-remove"
+  },
+  {
+    "at": "2026-10-17T11:29:23",
+    "usd": 0.003087,
+    "note": "[worktree] fresh2-adr-log4brains/S/fresh2-adr-log4brains-add"
+  },
+  {
+    "at": "2026-10-17T11:29:26",
+    "usd": 0.002246,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-reword"
+  },
+  {
+    "at": "2026-10-17T11:29:33",
+    "usd": 0.009502,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-cure"
+  },
+  {
+    "at": "2026-10-17T11:29:37",
+    "usd": 0.011446,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-xref"
+  },
+  {
+    "at": "2026-10-17T11:29:40",
+    "usd": 0.002598,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-term"
+  },
+  {
+    "at": "2026-10-17T11:29:44",
+    "usd": 0.022574,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-rename"
+  },
+  {
+    "at": "2026-10-17T11:29:47",
+    "usd": 0.005006,
+    "note": "[worktree] fresh2-contract-bonterms/S/fresh2-contract-bonterms-remove"
+  },
+  {
+    "at": "2026-10-17T11:29:53",
+    "usd": 0.005767,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:29:57",
+    "usd": 0.009179,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:30:03",
+    "usd": 0.020663,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:30:06",
+    "usd": 0.017771,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:30:10",
+    "usd": 0.024519,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T11:30:18",
+    "usd": 0.017835,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T11:33:51",
+    "usd": 0.170061,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T11:35:57",
+    "usd": 0.010403,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T11:43:07",
+    "usd": 0.184976,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T11:46:16",
+    "usd": 0.013908,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T11:58:22",
+    "usd": 0.179021,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T12:02:37",
+    "usd": 0.033128,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T12:06:10",
+    "usd": 0.270444,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T12:08:15",
+    "usd": 0.010964,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T12:15:25",
+    "usd": 0.023858,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T12:18:33",
+    "usd": 0.016394,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T12:30:39",
+    "usd": 0.01287,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T12:34:51",
+    "usd": 0.029274,
+    "note": "[worktree] fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-17T12:38:23",
+    "usd": 0.016506,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-17T12:40:30",
+    "usd": 0.009179,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-17T12:47:39",
+    "usd": 0.033422,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-17T12:50:46",
+    "usd": 0.018587,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-17T13:02:54",
+    "usd": 0.033842,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-17T13:07:03",
+    "usd": 0.017715,
+    "note": "[worktree] fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:01:13",
+    "usd": 0.170136,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:01:15",
+    "usd": 0.270564,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:01:35",
+    "usd": 0.016561,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:03:17",
+    "usd": 0.009526,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:03:18",
+    "usd": 0.010967,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:03:40",
+    "usd": 0.008841,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:10:26",
+    "usd": 0.023981,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:10:31",
+    "usd": 0.197951,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:10:47",
+    "usd": 0.030917,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:13:31",
+    "usd": 0.018545,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:13:34",
+    "usd": 0.013853,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:13:50",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:25:39",
+    "usd": 0.012114,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:25:42",
+    "usd": 0.178866,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:25:56",
+    "usd": 0.033997,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:29:52",
+    "usd": 0.030895,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:29:55",
+    "usd": 0.031151,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:30:03",
+    "usd": 0.018337,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:30:05",
+    "usd": 0.270564,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:30:32",
+    "usd": 0.170136,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:30:57",
+    "usd": 0.016561,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:32:10",
+    "usd": 0.011967,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:32:36",
+    "usd": 0.010406,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:33:02",
+    "usd": 0.009181,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T15:39:21",
+    "usd": 0.026089,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:39:44",
+    "usd": 0.184951,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:40:09",
+    "usd": 0.033397,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T15:42:25",
+    "usd": 0.016269,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:42:49",
+    "usd": 0.015806,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:43:16",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T15:54:28",
+    "usd": 0.011581,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:54:52",
+    "usd": 0.177131,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:55:19",
+    "usd": 0.033837,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T15:58:41",
+    "usd": 0.031118,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:59:03",
+    "usd": 0.026905,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:59:17",
+    "usd": 0.270564,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:59:28",
+    "usd": 0.013737,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T15:59:30",
+    "usd": 0.016561,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T15:59:40",
+    "usd": 0.170136,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T16:01:21",
+    "usd": 0.010087,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T16:01:35",
+    "usd": 0.008901,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T16:01:44",
+    "usd": 0.011626,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T16:08:30",
+    "usd": 0.023889,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T16:08:44",
+    "usd": 0.033477,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T16:08:52",
+    "usd": 0.185046,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T16:11:34",
+    "usd": 0.018821,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T16:11:50",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T16:11:55",
+    "usd": 0.013957,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T16:23:40",
+    "usd": 0.014528,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T16:23:55",
+    "usd": 0.035797,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T16:23:59",
+    "usd": 0.178726,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T16:27:49",
+    "usd": 0.025232,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T16:28:02",
+    "usd": 0.019125,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T16:28:08",
+    "usd": 0.023455,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T16:57:15",
+    "usd": 0.0242,
+    "note": "adr-S/B1/preload"
+  },
+  {
+    "at": "2026-10-19T16:57:17",
+    "usd": 0.003208,
+    "note": "adr-S/B1/adr-S-reword"
+  },
+  {
+    "at": "2026-10-19T16:57:23",
+    "usd": 0.009808,
+    "note": "adr-S/B1/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-19T16:57:26",
+    "usd": 0.006843,
+    "note": "adr-S/B1/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-19T16:57:31",
+    "usd": 0.008629,
+    "note": "adr-S/B1/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-19T16:57:33",
+    "usd": 0.00576,
+    "note": "adr-S/B1/adr-S-add-item"
+  },
+  {
+    "at": "2026-10-19T16:57:37",
+    "usd": 0.008464,
+    "note": "adr-S/B1/adr-S-remove-item"
+  },
+  {
+    "at": "2026-10-19T16:57:41",
+    "usd": 0.007888,
+    "note": "adr-S/S/preload"
+  },
+  {
+    "at": "2026-10-19T16:57:43",
+    "usd": 0.006422,
+    "note": "adr-S/S/adr-S-reword"
+  },
+  {
+    "at": "2026-10-19T16:57:47",
+    "usd": 0.013598,
+    "note": "adr-S/S/adr-S-supersede"
+  },
+  {
+    "at": "2026-10-19T16:57:49",
+    "usd": 0.006774,
+    "note": "adr-S/S/adr-S-deprecate"
+  },
+  {
+    "at": "2026-10-19T16:57:56",
+    "usd": 0.010802,
+    "note": "adr-S/S/adr-S-switch-tech"
+  },
+  {
+    "at": "2026-10-19T16:57:59",
+    "usd": 0.00639,
+    "note": "adr-S/S/adr-S-add-item"
+  },
+  {
+    "at": "2026-10-19T16:58:04",
+    "usd": 0.005682,
+    "note": "adr-S/S/adr-S-remove-item"
+  },
+  {
+    "at": "2026-10-19T16:58:41",
+    "usd": 0.26784,
+    "note": "fresh2-adr-govuk-infra/B1/preload"
+  },
+  {
+    "at": "2026-10-19T16:58:44",
+    "usd": 0.009779,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T16:59:06",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-19T16:59:08",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T17:00:47",
+    "usd": 0.010087,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T17:01:11",
+    "usd": 0.009181,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T17:07:55",
+    "usd": 0.023529,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T17:08:21",
+    "usd": 0.030877,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T17:10:58",
+    "usd": 0.016397,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T17:11:23",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T17:23:01",
+    "usd": 0.011744,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T17:23:33",
+    "usd": 0.035877,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-19T17:27:10",
+    "usd": 0.027349,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T17:27:18",
+    "usd": 0.26784,
+    "note": "fresh2-adr-govuk-infra/B1/preload"
+  },
+  {
+    "at": "2026-10-19T17:27:21",
+    "usd": 0.009779,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T17:27:41",
+    "usd": 0.018337,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-19T17:29:25",
+    "usd": 0.012727,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T17:29:31",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-19T17:29:35",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-19T17:31:43",
+    "usd": 0.009181,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-19T17:36:32",
+    "usd": 0.023389,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T17:38:51",
+    "usd": 0.033537,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-19T17:39:36",
+    "usd": 0.017581,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-19T17:41:56",
+    "usd": 0.018589,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-20T10:28:03",
+    "usd": 0.26784,
+    "note": "fresh2-adr-govuk-infra/B1/preload"
+  },
+  {
+    "at": "2026-10-20T10:28:10",
+    "usd": 0.009779,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-20T10:28:57",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-20T10:29:02",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-20T10:30:21",
+    "usd": 0.010087,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-20T10:31:10",
+    "usd": 0.008901,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-20T10:37:30",
+    "usd": 0.025749,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-20T10:38:17",
+    "usd": 0.031097,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-20T10:40:34",
+    "usd": 0.017681,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-20T10:41:21",
+    "usd": 0.018589,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-20T10:52:42",
+    "usd": 0.011565,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-20T10:53:28",
+    "usd": 0.035217,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-20T10:57:05",
+    "usd": 0.030154,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-20T10:57:20",
+    "usd": 0.26784,
+    "note": "fresh2-adr-govuk-infra/B1/preload"
+  },
+  {
+    "at": "2026-10-20T10:57:30",
+    "usd": 0.009779,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-20T10:58:14",
+    "usd": 0.017345,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-20T10:59:37",
+    "usd": 0.010967,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-20T10:59:52",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-20T10:59:58",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-20T11:02:05",
+    "usd": 0.008841,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-20T11:07:12",
+    "usd": 0.035241,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-20T11:09:14",
+    "usd": 0.030977,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-20T11:10:30",
+    "usd": 0.016949,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-20T11:12:26",
+    "usd": 0.018589,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-20T11:22:36",
+    "usd": 0.011847,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-20T11:27:47",
+    "usd": 0.025671,
+    "note": "fresh2-adr-govuk-infra/B1/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-20T11:28:27",
+    "usd": 0.036437,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-20T11:32:35",
+    "usd": 0.025321,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-26T17:07:19",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-26T17:07:22",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-26T17:09:30",
+    "usd": 0.009181,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-26T17:09:30",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-26T17:09:33",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-26T17:11:30",
+    "usd": 0.010157,
+    "note": "fresh2-adr-govuk-infra/S/preload"
+  },
+  {
+    "at": "2026-10-26T17:11:33",
+    "usd": 0.007225,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-ttl"
+  },
+  {
+    "at": "2026-10-26T17:11:39",
+    "usd": 0.008801,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-26T17:13:39",
+    "usd": 0.009181,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-supersede"
+  },
+  {
+    "at": "2026-10-26T17:16:36",
+    "usd": 0.031057,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-26T17:18:45",
+    "usd": 0.030857,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-26T17:19:42",
+    "usd": 0.018589,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-26T17:20:46",
+    "usd": 0.030877,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-reword"
+  },
+  {
+    "at": "2026-10-26T17:21:51",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-26T17:23:52",
+    "usd": 0.017773,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-remove"
+  },
+  {
+    "at": "2026-10-26T17:31:48",
+    "usd": 0.033917,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-26T17:33:58",
+    "usd": 0.036797,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-26T17:35:55",
+    "usd": 0.016185,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-26T17:35:59",
+    "usd": 0.035317,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-add"
+  },
+  {
+    "at": "2026-10-26T17:38:05",
+    "usd": 0.017937,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  },
+  {
+    "at": "2026-10-26T17:40:07",
+    "usd": 0.019585,
+    "note": "fresh2-adr-govuk-infra/S/fresh2-adr-govuk-infra-rename"
+  }
+]

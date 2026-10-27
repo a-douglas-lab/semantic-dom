@@ -1,0 +1,144 @@
+{
+  "params": {
+    "bm25": {
+      "top_k": 8,
+      "min_ratio": 0.25
+    },
+    "emb": {
+      "top_k": 5,
+      "min_sim": 0.45
+    },
+    "emb-bge": {
+      "top_k": 8,
+      "min_sim": 0.6
+    }
+  },
+  "report": {
+    "regex": {
+      "recall": 1.0,
+      "precision": 0.14816600185774273,
+      "ctx_tokens": 1679.1666666666667,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "bm25": {
+      "recall": 1.0,
+      "precision": 0.19425958374371075,
+      "ctx_tokens": 1157.888888888889,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "regex+bm25": {
+      "recall": 1.0,
+      "precision": 0.1411431104647594,
+      "ctx_tokens": 1713.7222222222222,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "emb": {
+      "recall": 1.0,
+      "precision": 0.14035029785029784,
+      "ctx_tokens": 1249.6666666666667,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "all": {
+      "recall": 1.0,
+      "precision": 0.10880449319967156,
+      "ctx_tokens": 1827.9444444444443,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "emb-bge": {
+      "recall": 1.0,
+      "precision": 0.1053809506146468,
+      "ctx_tokens": 1376.1666666666667,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    },
+    "all-bge": {
+      "recall": 1.0,
+      "precision": 0.08262464530849008,
+      "ctx_tokens": 1893.2777777777778,
+      "full_recall_cases": 18,
+      "n": 18,
+      "by_kind": {
+        "add-item": 1.0,
+        "literal-ripple": 1.0,
+        "local": 1.0,
+        "paraphrase-ripple": 1.0,
+        "remove-item": 1.0,
+        "rename": 1.0,
+        "schema-ripple": 1.0,
+        "status": 1.0
+      },
+      "misses": []
+    }
+  }
+}
